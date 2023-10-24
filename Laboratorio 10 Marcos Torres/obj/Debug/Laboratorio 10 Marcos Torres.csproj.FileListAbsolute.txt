@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.exe.config
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.exe
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.pdb
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.exe
+C:\Users\Usuario\Downloads\Laboratorio 9\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.pdb
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.exe.config
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.exe
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\bin\Debug\Laboratorio 10 Marcos Torres.pdb
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.exe
+C:\Users\Usuario\Downloads\Laboratorio 10\Laboratorio 10 Marcos Torres\obj\Debug\Laboratorio 10 Marcos Torres.pdb
